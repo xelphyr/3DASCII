@@ -1,8 +1,0 @@
-C:/Users/Joseph/Documents/Projects/3DASCII/release/CMakeFiles/3DASCII.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/CMakeFiles/edit_cache.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/CMakeFiles/rebuild_cache.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/SDL3_test.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/SDL_uclibc.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/edit_cache.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/rebuild_cache.dir

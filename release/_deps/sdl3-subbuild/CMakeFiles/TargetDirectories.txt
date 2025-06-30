@@ -1,3 +1,0 @@
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-subbuild/CMakeFiles/edit_cache.dir
-C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-subbuild/CMakeFiles/rebuild_cache.dir

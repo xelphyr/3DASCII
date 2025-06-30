@@ -1,0 +1,67 @@
+name: Release build
+
+on:
+  # manually run
+  workflow_dispatch:
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        include:
+          - target: aarch64-apple-darwin
+            host: macos-latest
+
+          - target: x86_64-pc-windows
+            host: ubuntu-latest
+            gcc-package-suffix: mingw-w64-x86-64-win32
+            gcc-prefix: x86_64-w64-mingw32
+            gcc-suffix: -win32
+            executable-suffix: .exe
+          - target: i686-pc-windows
+            host: ubuntu-latest
+            gcc-package-suffix: mingw-w64-i686-win32
+            gcc-prefix: i686-w64-mingw32
+            gcc-suffix: -win32
+            executable-suffix: .exe
+
+          - target: x86_64-unknown-linux-gnu
+            host: ubuntu-latest
+
+    runs-on: ${{matrix.host}}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        shell: bash
+        run: |
+          export CFLAGS='-O2 -pipe -flto'
+          export CXXFLAGS="${CFLAGS}"
+
+          if [ -n "${{matrix.gcc-package-suffix}}" ]; then
+              sudo apt install g++-${{matrix.gcc-package-suffix}}
+              export CC=${{matrix.gcc-prefix}}-gcc${{matrix.gcc-suffix}}
+              export CXX=${{matrix.gcc-prefix}}-g++${{matrix.gcc-suffix}}
+              export LD=${{matrix.gcc-prefix}}-ld${{matrix.gcc-suffix}}
+          fi
+
+          if [ -n "$(echo ${{matrix.target}} | grep linux)" ]; then
+              sudo apt install libx11-dev libwayland-dev libxext-dev libxrandr-dev libxcursor-dev libxfixes-dev libxi-dev libxss-dev libxtst-dev libxkbcommon-dev libdrm-dev libgbm-dev libgl1-mesa-dev libgles2-mesa-dev libegl1-mesa-dev libdbus-1-dev libibus-1.0-dev libudev-dev
+          fi
+
+          CMAKEFLAGS="-DSDL_DEPS_SHARED=off -DSDL_SHARED=off -DSDL_STATIC=on"
+          if [ -n "$(echo ${{matrix.target}} | grep windows)" ]; then
+              CMAKEFLAGS="${CMAKEFLAGS} -DCMAKE_SYSTEM_NAME=Windows"
+          fi
+
+          mkdir build
+          cd build
+          cmake .. ${CMAKEFLAGS}
+
+          make -j
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: 3DASCII-${{matrix.target}}
+          path: build/bin/3DASCII${{matrix.executable-suffix}}
+          if-no-files-found: error

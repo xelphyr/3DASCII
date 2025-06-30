@@ -2,7 +2,7 @@
 
 #include "SceneObject.hpp"
 #include "Light.hpp"
-#include "Camera.hpp"
+#include "camera.hpp"
 #include "SceneSettings.hpp"
 
 class Scene
