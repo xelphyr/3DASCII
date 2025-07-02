@@ -2,7 +2,7 @@
 34	304	7722065746938729	CMakeFiles/3DASCII.dir/src/core/managers/EventBus.cpp.obj	79d52883952927e1
 41	607	7726660362965540	CMakeFiles/3DASCII.dir/src/core/managers/EntityManager.cpp.obj	472f8f02f977749e
 55	540	7722058933226988	lib/glm/glm/libglm.a	6e001a4933e1cd0b
-10	3505	7728231142188422	CMakeFiles/3DASCII.dir/src/core/main.cpp.obj	1e5ec1c0ba84971a
+62	9645	7729358685807700	CMakeFiles/3DASCII.dir/src/core/main.cpp.obj	1e5ec1c0ba84971a
 89	1958	7722056473829183	lib/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	b57a0399d701abb9
 33	715	7722879132357556	CMakeFiles/3DASCII.dir/src/core/managers/Coordinator.cpp.obj	aede6b5c70020006
 90	1894	7722057005383700	lib/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	19eb020697bc8a41
@@ -13,7 +13,7 @@
 49	1992	7722056473427788	lib/glfw/src/CMakeFiles/glfw.dir/context.c.obj	9738b7e1fc151371
 54	1993	7722056473477867	lib/glfw/src/CMakeFiles/glfw.dir/init.c.obj	5235ff3d8be43962
 59	1779	7722057005072625	lib/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	1cba2e82e4b62758
-28	1935	7728074156836951	CMakeFiles/3DASCII.dir/src/systems/UISystem.cpp.obj	438590014a1a6199
+73	7670	7729358685908158	CMakeFiles/3DASCII.dir/src/systems/UISystem.cpp.obj	438590014a1a6199
 63	2019	7722056473573307	lib/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	5997a4e568950bc6
 107	1850	7722057005544139	lib/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	62b0288ac867806b
 53	1915	7722057005000523	lib/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	5d786749edb7e17
@@ -23,7 +23,7 @@
 41	2872	7726730798507508	CMakeFiles/imgui.dir/lib/imgui/imgui_tables.cpp.obj	2631f1902c0a1f3
 30	3134	7726730798402305	CMakeFiles/imgui.dir/lib/imgui/imgui_demo.cpp.obj	4c54589dfdb098f8
 36	3905	7726730798452460	CMakeFiles/imgui.dir/lib/imgui/imgui_draw.cpp.obj	ff7f26dfa6ea4232
-3505	4508	7728231177134386	bin/3DASCII.exe	f59aae11bbbcd6b
+9645	10677	7729358781630292	bin/3DASCII.exe	f59aae11bbbcd6b
 46	4259	7726730798557587	CMakeFiles/imgui.dir/lib/imgui/imgui_widgets.cpp.obj	7c62c126d2a42315
 14	3973	7726730798232180	CMakeFiles/imgui.dir/lib/imgui/backends/imgui_impl_glfw.cpp.obj	f1031ca71e3ab5af
 26	6008	7726730798352243	CMakeFiles/imgui.dir/lib/imgui/imgui.cpp.obj	9dc29dc29e9a0917
@@ -48,5 +48,5 @@
 54	3549	7728069682214919	CMakeFiles/3DASCII.dir/src/core/managers/AssetManager.cpp.obj	b8618dd4913d9bc
 27	1312	7724964190120659	CMakeFiles/3DASCII.dir/src/rendercomponents/Shader.cpp.obj	a7a384034515e40e
 58	1300	7728069682249995	CMakeFiles/3DASCII.dir/src/rendercomponents/ShaderProgram.cpp.obj	d51dd17bdef77686
-11	1435	7728075507784069	CMakeFiles/3DASCII.dir/src/systems/RenderSystem.cpp.obj	5dbc17eef992353b
+68	6951	7729358685868103	CMakeFiles/3DASCII.dir/src/systems/RenderSystem.cpp.obj	5dbc17eef992353b
 66	8888	7726730798757573	CMakeFiles/3DASCII.dir/src/ImGuiFileDialog.cpp.obj	d93d197e87fb3e7e
