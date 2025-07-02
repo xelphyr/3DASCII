@@ -2,7 +2,7 @@
 #include <imgui.h>
 #include <imgui_impl_sdl3.h>
 #include <imgui_impl_sdlrenderer3.h>
-
+#include <cmath>
 #include <iostream>
 
 void InspectorMenu::Draw(Scene& scene, SceneObject*& selectedObject, Light*& selectedLight, Camera*& selectedCamera)
@@ -32,7 +32,7 @@ void InspectorMenu::Draw(Scene& scene, SceneObject*& selectedObject, Light*& sel
         float3 position = transform.GetPos();
         float3 rotation = transform.GetRot();
         ImGui::DragFloat3("Position", &position.x, 0.05f);
-        ImGui::DragFloat3("Rotation", &rotation.x, 0.1f, 0.0f, 2.f*M_PI, "%.2f rad", ImGuiSliderFlags_WrapAround);
+        ImGui::DragFloat3("Rotation", &rotation.x, 0.1f, 0.0f, 2.f*3.14, "%.2f rad", ImGuiSliderFlags_WrapAround);
 
         // Update the transform with new values
         transform.SetPos(position);
@@ -43,8 +43,8 @@ void InspectorMenu::Draw(Scene& scene, SceneObject*& selectedObject, Light*& sel
         // Display Model Details
         Model &model = selectedObject->GetModel();
         ImGui::Text("Model:");
-        ImGui::Text("Vertices: %d", model.GetLocalVerts().size());
-        ImGui::Text("Faces: %d", model.GetFaceIndices().size() / 3);
+        ImGui::Text("Vertices: %zu", model.GetLocalVerts().size());
+        ImGui::Text("Faces: %zu", model.GetFaceIndices().size() / 3);
         
         float3 color = model.GetColor();
         ImGui::ColorEdit3("Color ", &color.r);   
@@ -99,7 +99,7 @@ void InspectorMenu::Draw(Scene& scene, SceneObject*& selectedObject, Light*& sel
         float FOV = selectedCamera->GetFOV();
         float focalLength = selectedCamera -> GetFocalLength();
         ImGui::DragFloat3("Position", &position.x, 0.05f);
-        ImGui::DragFloat3("Rotation", &rotation.x, 0.1f, 0.0f, 2.f*M_PI, "%.2f rad", ImGuiSliderFlags_WrapAround);
+        ImGui::DragFloat3("Rotation", &rotation.x, 0.1f, 0.0f, 2.f*3.14, "%.2f rad", ImGuiSliderFlags_WrapAround);
         ImGui::DragFloat("FOV", &FOV, 0.f, 180.f);
         ImGui::DragFloat("Focal Length", &focalLength);
 

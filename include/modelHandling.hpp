@@ -2,7 +2,7 @@
 
 #include "SceneObject.hpp"
 #include "Scene.hpp"
-#include "Model.hpp"
+#include "model.hpp"
 #include "Transform.hpp"
 #include "multifloat.hpp"
 

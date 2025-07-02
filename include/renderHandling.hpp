@@ -3,7 +3,7 @@
 #include <cmath>
 #include <random>
 #include <optional>
-#include "Model.hpp"
+#include "model.hpp"
 #include "Transform.hpp"
 #include "multifloat.hpp"
 #include "camera.hpp"

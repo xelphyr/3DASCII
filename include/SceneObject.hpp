@@ -1,6 +1,6 @@
 #pragma once
 
-#include "Model.hpp"
+#include "model.hpp"
 #include "Transform.hpp"
 #include <string>
 
