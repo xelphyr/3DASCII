@@ -6,7 +6,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/CMakeFiles/4.0.2/CMakeSystem.cmake"
+			"path" : "build/CMakeFiles/4.0.2/CMakeSystem.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -20,7 +20,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/CMakeFiles/4.0.2/CMakeCXXCompiler.cmake"
+			"path" : "build/CMakeFiles/4.0.2/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -84,7 +84,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/CMakeFiles/4.0.2/CMakeRCCompiler.cmake"
+			"path" : "build/CMakeFiles/4.0.2/CMakeRCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -208,11 +208,11 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/CMakeLists.txt"
+			"path" : "build/_deps/sdl3-src/CMakeLists.txt"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/CMakeFiles/4.0.2/CMakeCCompiler.cmake"
+			"path" : "build/CMakeFiles/4.0.2/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -436,7 +436,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/macros.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/macros.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -465,23 +465,23 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/sdlchecks.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/sdlchecks.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/sdlcommands.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/sdlcommands.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/sdlcompilers.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/sdlcompilers.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/sdlcpu.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/sdlcpu.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/sdlmanpages.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/sdlmanpages.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -495,31 +495,31 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/sdlplatform.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/sdlplatform.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/GetGitRevisionDescription.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/GetGitRevisionDescription.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/3rdparty.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/3rdparty.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/PreseedMSVCCache.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/PreseedMSVCCache.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/PreseedEmscriptenCache.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/PreseedEmscriptenCache.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/PreseedNokiaNGageCache.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/PreseedNokiaNGageCache.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/FindLibUSB.cmake"
+			"path" : "build/_deps/sdl3-src/cmake/FindLibUSB.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -548,7 +548,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/include/build_config/SDL_build_config.h.cmake"
+			"path" : "build/_deps/sdl3-src/include/build_config/SDL_build_config.h.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -567,23 +567,23 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/.git/HEAD"
+			"path" : "build/_deps/sdl3-src/.git/HEAD"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/GetGitRevisionDescription.cmake.in"
+			"path" : "build/_deps/sdl3-src/cmake/GetGitRevisionDescription.cmake.in"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-build/CMakeFiles/git-data/grabRef.cmake"
+			"path" : "build/_deps/sdl3-build/CMakeFiles/git-data/grabRef.cmake"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/.git/refs/heads/main"
+			"path" : "build/_deps/sdl3-src/.git/refs/heads/main"
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/include/build_config/SDL_revision.h.cmake"
+			"path" : "build/_deps/sdl3-src/include/build_config/SDL_revision.h.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -597,7 +597,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-src/cmake/SDL3Config.cmake.in"
+			"path" : "build/_deps/sdl3-src/cmake/SDL3Config.cmake.in"
 		},
 		{
 			"isCMake" : true,
@@ -606,14 +606,14 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "release/_deps/sdl3-build/CMakeFiles/SDL_build_config.h.intermediate"
+			"path" : "build/_deps/sdl3-build/CMakeFiles/SDL_build_config.h.intermediate"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Joseph/Documents/Projects/3DASCII/release",
-		"source" : "C:/Users/Joseph/Documents/Projects/3DASCII"
+		"build" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build",
+		"source" : "C:/Users/Joseph/Documents/Projects/3DASCII-main"
 	},
 	"version" : 
 	{

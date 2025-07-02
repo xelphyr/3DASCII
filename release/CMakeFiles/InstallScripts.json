@@ -1,8 +1,8 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/Joseph/Documents/Projects/3DASCII/release/cmake_install.cmake",
-		"C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/cmake_install.cmake"
+		"C:/Users/Joseph/Documents/Projects/3DASCII-main/release/cmake_install.cmake",
+		"C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

@@ -3,9 +3,9 @@
 # No other meaning or use of this file is supported.
 
 method=git
-command=C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/Joseph/Documents/Projects/3DASCII/build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-gitclone.cmake
-source_dir=C:/Users/Joseph/Documents/Projects/3DASCII/build/_deps/sdl3-src
-work_dir=C:/Users/Joseph/Documents/Projects/3DASCII/build/_deps
+command=C:/Program Files/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-subbuild/sdl3-populate-prefix/tmp/sdl3-populate-gitclone.cmake
+source_dir=C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-src
+work_dir=C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps
 repository=https://github.com/libsdl-org/SDL.git
 remote=origin
 init_submodules=TRUE

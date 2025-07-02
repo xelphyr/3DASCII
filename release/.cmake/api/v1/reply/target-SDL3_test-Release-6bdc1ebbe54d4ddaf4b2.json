@@ -139,13 +139,13 @@
 			{
 				"command" : 4,
 				"file" : 0,
-				"line" : 3617,
+				"line" : 3615,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 3604,
+				"line" : 3602,
 				"parent" : 0
 			}
 		]
@@ -156,7 +156,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O3 -DNDEBUG"
+					"fragment" : " -static-libgcc -O3 -DNDEBUG"
 				},
 				{
 					"backtrace" : 4,
@@ -195,11 +195,11 @@
 			[
 				{
 					"backtrace" : 19,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-revision"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-revision"
 				},
 				{
 					"backtrace" : 19,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/include"
 				}
 			],
 			"language" : "C",

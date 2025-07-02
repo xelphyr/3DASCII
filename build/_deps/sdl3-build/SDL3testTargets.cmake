@@ -59,7 +59,7 @@ set_target_properties(SDL3::SDL3_test PROPERTIES
 set_property(TARGET SDL3::SDL3_test APPEND PROPERTY IMPORTED_CONFIGURATIONS DEBUG)
 set_target_properties(SDL3::SDL3_test PROPERTIES
   IMPORTED_LINK_INTERFACE_LANGUAGES_DEBUG "C"
-  IMPORTED_LOCATION_DEBUG "C:/Users/Joseph/Documents/Projects/3DASCII/build/_deps/sdl3-build/libSDL3_test.a"
+  IMPORTED_LOCATION_DEBUG "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-build/libSDL3_test.a"
   )
 
 # Make sure the targets which have been exported in some other

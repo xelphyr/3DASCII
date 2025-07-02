@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"C:/Users/Joseph/Documents/Projects/3DASCII/build/_deps/imgui-subbuild/cmake_install.cmake"
+		"C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/imgui-subbuild/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

@@ -10,7 +10,7 @@
 					[
 						1
 					],
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -24,14 +24,14 @@
 				},
 				{
 					"build" : "_deps/sdl3-build",
-					"jsonFile" : "directory-_deps.sdl3-build-Debug-71c8475db73c9f5b84dc.json",
+					"jsonFile" : "directory-_deps.sdl3-build-Release-dbf6bf113aa8d5923bd7.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
 					},
 					"parentIndex" : 0,
 					"projectIndex" : 1,
-					"source" : "build/_deps/sdl3-src",
+					"source" : "release/_deps/sdl3-src",
 					"targetIndexes" : 
 					[
 						1,
@@ -40,7 +40,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "Release",
 			"projects" : 
 			[
 				{
@@ -78,28 +78,28 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "3DASCII::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-3DASCII-Debug-a0def3b33fbcad43cfaf.json",
+					"jsonFile" : "target-3DASCII-Release-78e1d275b3bbd9961ba3.json",
 					"name" : "3DASCII",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "SDL3-shared::@405c074760d2f6728126",
-					"jsonFile" : "target-SDL3-shared-Debug-66ff3ff679d7c8723328.json",
+					"jsonFile" : "target-SDL3-shared-Release-7155d0bb71f65ccbcab5.json",
 					"name" : "SDL3-shared",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "SDL3_test::@405c074760d2f6728126",
-					"jsonFile" : "target-SDL3_test-Debug-f1910813bd3b21aa6006.json",
+					"jsonFile" : "target-SDL3_test-Release-6bdc1ebbe54d4ddaf4b2.json",
 					"name" : "SDL3_test",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "SDL_uclibc::@405c074760d2f6728126",
-					"jsonFile" : "target-SDL_uclibc-Debug-2e8669ef8ae9d3297b11.json",
+					"jsonFile" : "target-SDL_uclibc-Release-c86ca11f945ec41a58f0.json",
 					"name" : "SDL_uclibc",
 					"projectIndex" : 1
 				}
@@ -109,8 +109,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Joseph/Documents/Projects/3DASCII/build",
-		"source" : "C:/Users/Joseph/Documents/Projects/3DASCII"
+		"build" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release",
+		"source" : "C:/Users/Joseph/Documents/Projects/3DASCII-main"
 	},
 	"version" : 
 	{

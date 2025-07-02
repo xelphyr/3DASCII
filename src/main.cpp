@@ -154,7 +154,6 @@ SDL_AppResult SDL_AppIterate(void *appstate)
 
         ImGui::SetNextWindowPos(ImVec2(10, 10), ImGuiCond_FirstUseEver);
         ImGui::SetNextWindowSize(ImVec2(300, 200), ImGuiCond_FirstUseEver);
-        ImGui::ShowDemoWindow();
 
         DisplayUI(scene, lights, camera, settings);
 

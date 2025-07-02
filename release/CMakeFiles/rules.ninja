@@ -121,7 +121,7 @@ rule C_STATIC_LIBRARY_LINKER__SDL_uclibc_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\Joseph\Documents\Projects\3DASCII -BC:\Users\Joseph\Documents\Projects\3DASCII\release
+  command = "C:\Program Files\CMake\bin\cmake.exe" --regenerate-during-build -SC:\Users\Joseph\Documents\Projects\3DASCII-main -BC:\Users\Joseph\Documents\Projects\3DASCII-main\release
   description = Re-running CMake...
   generator = 1
 

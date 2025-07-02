@@ -28,8 +28,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(sdl3-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/libsdl-org/SDL.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "GIT_TAG" "main" "GIT_SHALLOW" "ON"
-                    SOURCE_DIR          "C:/Users/Joseph/Documents/Projects/3DASCII/build/_deps/sdl3-src"
-                    BINARY_DIR          "C:/Users/Joseph/Documents/Projects/3DASCII/build/_deps/sdl3-build"
+                    SOURCE_DIR          "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-src"
+                    BINARY_DIR          "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

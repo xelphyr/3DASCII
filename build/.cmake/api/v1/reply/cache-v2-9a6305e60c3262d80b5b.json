@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII/release"
+			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build"
 		},
 		{
 			"name" : "3DASCII_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII"
+			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII-main"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Release"
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Joseph/Documents/Projects/3DASCII/release"
+			"value" : "c:/Users/Joseph/Documents/Projects/3DASCII-main/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -695,7 +695,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII"
+			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII-main"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1791,7 +1791,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps"
+			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps"
 		},
 		{
 			"name" : "FETCHCONTENT_FULLY_DISCONNECTED",
@@ -1899,7 +1899,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/msys64/ucrt64/bin/pkg-config.exe][v2.3.0()]"
+			"value" : "[C:/msys64/ucrt64/bin/pkg-config.exe][v2.5.0()]"
 		},
 		{
 			"name" : "GIT_EXECUTABLE",
@@ -4331,7 +4331,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build"
+			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-build"
 		},
 		{
 			"name" : "SDL3_IS_TOP_LEVEL",
@@ -4355,7 +4355,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src"
+			"value" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-src"
 		},
 		{
 			"name" : "SDL_ALSA",

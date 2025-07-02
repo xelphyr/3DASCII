@@ -81,7 +81,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 3555,
+				"line" : 3553,
 				"parent" : 0
 			},
 			{
@@ -111,7 +111,7 @@
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 2097,
+				"line" : 2095,
 				"parent" : 0
 			},
 			{
@@ -129,7 +129,7 @@
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 2151,
+				"line" : 2149,
 				"parent" : 0
 			},
 			{
@@ -261,7 +261,7 @@
 			{
 				"command" : 11,
 				"file" : 0,
-				"line" : 3593,
+				"line" : 3591,
 				"parent" : 0
 			},
 			{
@@ -297,13 +297,13 @@
 			{
 				"command" : 12,
 				"file" : 0,
-				"line" : 3548,
+				"line" : 3546,
 				"parent" : 0
 			},
 			{
 				"command" : 14,
 				"file" : 0,
-				"line" : 3565,
+				"line" : 3563,
 				"parent" : 0
 			},
 			{
@@ -381,7 +381,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 1921,
+				"line" : 1919,
 				"parent" : 0
 			},
 			{
@@ -393,7 +393,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 1922,
+				"line" : 1920,
 				"parent" : 0
 			},
 			{
@@ -405,7 +405,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 1923,
+				"line" : 1921,
 				"parent" : 0
 			},
 			{
@@ -417,7 +417,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 1924,
+				"line" : 1922,
 				"parent" : 0
 			},
 			{
@@ -429,7 +429,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 1936,
+				"line" : 1934,
 				"parent" : 0
 			},
 			{
@@ -441,7 +441,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2018,
+				"line" : 2016,
 				"parent" : 0
 			},
 			{
@@ -453,7 +453,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2025,
+				"line" : 2023,
 				"parent" : 0
 			},
 			{
@@ -465,7 +465,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2032,
+				"line" : 2030,
 				"parent" : 0
 			},
 			{
@@ -477,7 +477,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2033,
+				"line" : 2031,
 				"parent" : 0
 			},
 			{
@@ -489,7 +489,7 @@
 			{
 				"command" : 17,
 				"file" : 0,
-				"line" : 2055,
+				"line" : 2053,
 				"parent" : 0
 			},
 			{
@@ -501,7 +501,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2071,
+				"line" : 2069,
 				"parent" : 0
 			},
 			{
@@ -513,7 +513,7 @@
 			{
 				"command" : 17,
 				"file" : 0,
-				"line" : 2076,
+				"line" : 2074,
 				"parent" : 0
 			},
 			{
@@ -525,7 +525,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2080,
+				"line" : 2078,
 				"parent" : 0
 			},
 			{
@@ -537,7 +537,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2084,
+				"line" : 2082,
 				"parent" : 0
 			},
 			{
@@ -549,7 +549,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2091,
+				"line" : 2089,
 				"parent" : 0
 			},
 			{
@@ -561,7 +561,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2093,
+				"line" : 2091,
 				"parent" : 0
 			},
 			{
@@ -573,7 +573,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2100,
+				"line" : 2098,
 				"parent" : 0
 			},
 			{
@@ -585,7 +585,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2104,
+				"line" : 2102,
 				"parent" : 0
 			},
 			{
@@ -597,7 +597,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2108,
+				"line" : 2106,
 				"parent" : 0
 			},
 			{
@@ -609,7 +609,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2137,
+				"line" : 2135,
 				"parent" : 0
 			},
 			{
@@ -621,7 +621,7 @@
 			{
 				"command" : 18,
 				"file" : 0,
-				"line" : 2142,
+				"line" : 2140,
 				"parent" : 0
 			},
 			{
@@ -651,7 +651,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2146,
+				"line" : 2144,
 				"parent" : 0
 			},
 			{
@@ -663,7 +663,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2168,
+				"line" : 2166,
 				"parent" : 0
 			},
 			{
@@ -675,7 +675,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2179,
+				"line" : 2177,
 				"parent" : 0
 			},
 			{
@@ -687,7 +687,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 2184,
+				"line" : 2182,
 				"parent" : 0
 			},
 			{
@@ -699,7 +699,7 @@
 			{
 				"command" : 17,
 				"file" : 0,
-				"line" : 3030,
+				"line" : 3028,
 				"parent" : 0
 			},
 			{
@@ -711,7 +711,7 @@
 			{
 				"command" : 17,
 				"file" : 0,
-				"line" : 3032,
+				"line" : 3030,
 				"parent" : 0
 			},
 			{
@@ -723,7 +723,7 @@
 			{
 				"command" : 17,
 				"file" : 0,
-				"line" : 3045,
+				"line" : 3043,
 				"parent" : 0
 			},
 			{
@@ -735,7 +735,7 @@
 			{
 				"command" : 17,
 				"file" : 0,
-				"line" : 3053,
+				"line" : 3051,
 				"parent" : 0
 			},
 			{
@@ -747,7 +747,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 3055,
+				"line" : 3053,
 				"parent" : 0
 			},
 			{
@@ -759,7 +759,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 3107,
+				"line" : 3105,
 				"parent" : 0
 			},
 			{
@@ -771,7 +771,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 3113,
+				"line" : 3111,
 				"parent" : 0
 			},
 			{
@@ -783,7 +783,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 3122,
+				"line" : 3120,
 				"parent" : 0
 			},
 			{
@@ -795,7 +795,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 3127,
+				"line" : 3125,
 				"parent" : 0
 			},
 			{
@@ -807,7 +807,7 @@
 			{
 				"command" : 16,
 				"file" : 0,
-				"line" : 3222,
+				"line" : 3220,
 				"parent" : 0
 			},
 			{
@@ -824,7 +824,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O3 -DNDEBUG -std=gnu++17"
+					"fragment" : " -static-libgcc -O3 -DNDEBUG -std=gnu++17"
 				},
 				{
 					"backtrace" : 19,
@@ -860,10 +860,10 @@
 				},
 				{
 					"backtrace" : 35,
-					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/video/khronos"
+					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/video/khronos"
 				},
 				{
-					"fragment" : "-Winvalid-pch -x c++-header -include C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.hxx"
+					"fragment" : "-Winvalid-pch -x c++-header -include C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.hxx"
 				}
 			],
 			"defines" : 
@@ -892,19 +892,19 @@
 			[
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-config-release/build_config"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-config-release/build_config"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-revision"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-revision"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/include"
 				},
 				{
 					"backtrace" : 42,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src"
 				}
 			],
 			"language" : "CXX",
@@ -920,7 +920,7 @@
 			[
 				{
 					"backtrace" : 43,
-					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/SDL_internal.h"
+					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/SDL_internal.h"
 				}
 			],
 			"sourceIndexes" : 
@@ -932,7 +932,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O3 -DNDEBUG"
+					"fragment" : " -static-libgcc -O3 -DNDEBUG"
 				},
 				{
 					"backtrace" : 19,
@@ -968,10 +968,10 @@
 				},
 				{
 					"backtrace" : 35,
-					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/video/khronos"
+					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/video/khronos"
 				},
 				{
-					"fragment" : "-Winvalid-pch -x c-header -include C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.h"
+					"fragment" : "-Winvalid-pch -x c-header -include C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.h"
 				}
 			],
 			"defines" : 
@@ -1000,19 +1000,19 @@
 			[
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-config-release/build_config"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-config-release/build_config"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-revision"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-revision"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/include"
 				},
 				{
 					"backtrace" : 42,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src"
 				}
 			],
 			"language" : "C",
@@ -1020,7 +1020,7 @@
 			[
 				{
 					"backtrace" : 43,
-					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/SDL_internal.h"
+					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/SDL_internal.h"
 				}
 			],
 			"sourceIndexes" : 
@@ -1032,7 +1032,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O3 -DNDEBUG"
+					"fragment" : " -static-libgcc -O3 -DNDEBUG"
 				},
 				{
 					"backtrace" : 19,
@@ -1068,10 +1068,10 @@
 				},
 				{
 					"backtrace" : 35,
-					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/video/khronos"
+					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/video/khronos"
 				},
 				{
-					"fragment" : "-Winvalid-pch -include C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.h"
+					"fragment" : "-Winvalid-pch -include C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.h"
 				}
 			],
 			"defines" : 
@@ -1100,19 +1100,19 @@
 			[
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-config-release/build_config"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-config-release/build_config"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-revision"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-revision"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/include"
 				},
 				{
 					"backtrace" : 42,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src"
 				}
 			],
 			"language" : "C",
@@ -1120,7 +1120,7 @@
 			[
 				{
 					"backtrace" : 43,
-					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/SDL_internal.h"
+					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/SDL_internal.h"
 				}
 			],
 			"sourceIndexes" : 
@@ -1363,7 +1363,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O3 -DNDEBUG"
+					"fragment" : " -static-libgcc -O3 -DNDEBUG"
 				},
 				{
 					"backtrace" : 19,
@@ -1399,7 +1399,7 @@
 				},
 				{
 					"backtrace" : 35,
-					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/video/khronos"
+					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/video/khronos"
 				}
 			],
 			"defines" : 
@@ -1428,19 +1428,19 @@
 			[
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-config-release/build_config"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-config-release/build_config"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-revision"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-revision"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/include"
 				},
 				{
 					"backtrace" : 42,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src"
 				}
 			],
 			"language" : "C",
@@ -1448,7 +1448,7 @@
 			[
 				{
 					"backtrace" : 43,
-					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/SDL_internal.h"
+					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/SDL_internal.h"
 				}
 			],
 			"sourceIndexes" : 
@@ -1460,7 +1460,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O3 -DNDEBUG -std=gnu++17"
+					"fragment" : " -static-libgcc -O3 -DNDEBUG -std=gnu++17"
 				},
 				{
 					"backtrace" : 19,
@@ -1496,10 +1496,10 @@
 				},
 				{
 					"backtrace" : 35,
-					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/video/khronos"
+					"fragment" : "-idirafterC:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/video/khronos"
 				},
 				{
-					"fragment" : "-Winvalid-pch -include C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.hxx"
+					"fragment" : "-Winvalid-pch -include C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/CMakeFiles/SDL3-shared.dir/cmake_pch.hxx"
 				}
 			],
 			"defines" : 
@@ -1528,19 +1528,19 @@
 			[
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-config-release/build_config"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-config-release/build_config"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-revision"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-revision"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/include"
 				},
 				{
 					"backtrace" : 42,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src"
 				}
 			],
 			"language" : "CXX",
@@ -1556,7 +1556,7 @@
 			[
 				{
 					"backtrace" : 43,
-					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/SDL_internal.h"
+					"header" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/SDL_internal.h"
 				}
 			],
 			"sourceIndexes" : 
@@ -1593,19 +1593,19 @@
 			[
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-config-release/build_config"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-config-release/build_config"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-revision"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build/include-revision"
 				},
 				{
 					"backtrace" : 41,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/include"
 				},
 				{
 					"backtrace" : 42,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src"
 				}
 			],
 			"language" : "RC",
@@ -1629,7 +1629,7 @@
 		[
 			{
 				"backtrace" : 3,
-				"fragment" : "-Wl,--version-script=C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src/dynapi/SDL_dynapi.sym",
+				"fragment" : "-Wl,--version-script=C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-src/src/dynapi/SDL_dynapi.sym",
 				"role" : "flags"
 			},
 			{

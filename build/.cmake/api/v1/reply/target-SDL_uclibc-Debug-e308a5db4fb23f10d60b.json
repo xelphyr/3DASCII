@@ -13,15 +13,15 @@
 		[
 			"add_library",
 			"target_compile_options",
-			"sdl_target_compile_option_all_languages",
 			"SDL_AddCommonCompilerFlags",
+			"sdl_target_compile_option_all_languages",
 			"target_compile_definitions",
 			"target_include_directories"
 		],
 		"files" : 
 		[
-			"release/_deps/sdl3-src/CMakeLists.txt",
-			"release/_deps/sdl3-src/cmake/sdlcompilers.cmake"
+			"build/_deps/sdl3-src/CMakeLists.txt",
+			"build/_deps/sdl3-src/cmake/sdlcompilers.cmake"
 		],
 		"nodes" : 
 		[
@@ -35,13 +35,19 @@
 				"parent" : 0
 			},
 			{
-				"command" : 3,
+				"command" : 2,
 				"file" : 0,
 				"line" : 1221,
 				"parent" : 0
 			},
 			{
-				"command" : 2,
+				"command" : 1,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
 				"file" : 1,
 				"line" : 61,
 				"parent" : 2
@@ -50,10 +56,10 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 3
+				"parent" : 4
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 1,
 				"line" : 69,
 				"parent" : 2
@@ -62,10 +68,10 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 5
+				"parent" : 6
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 1,
 				"line" : 74,
 				"parent" : 2
@@ -74,10 +80,10 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 7
+				"parent" : 8
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 1,
 				"line" : 79,
 				"parent" : 2
@@ -86,10 +92,10 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 9
+				"parent" : 10
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 1,
 				"line" : 116,
 				"parent" : 2
@@ -98,10 +104,10 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 11
+				"parent" : 12
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 1,
 				"line" : 121,
 				"parent" : 2
@@ -110,10 +116,10 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 13
+				"parent" : 14
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 1,
 				"line" : 126,
 				"parent" : 2
@@ -122,10 +128,10 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 15
+				"parent" : 16
 			},
 			{
-				"command" : 2,
+				"command" : 3,
 				"file" : 1,
 				"line" : 159,
 				"parent" : 2
@@ -134,7 +140,7 @@
 				"command" : 1,
 				"file" : 1,
 				"line" : 23,
-				"parent" : 17
+				"parent" : 18
 			},
 			{
 				"command" : 4,
@@ -168,61 +174,65 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-O3 -DNDEBUG"
+					"fragment" : " -static-libgcc -g"
 				},
 				{
-					"backtrace" : 4,
+					"backtrace" : 3,
+					"fragment" : "-gdwarf-4"
+				},
+				{
+					"backtrace" : 5,
 					"fragment" : "-Wall"
 				},
 				{
-					"backtrace" : 6,
+					"backtrace" : 7,
 					"fragment" : "-Wundef"
 				},
 				{
-					"backtrace" : 8,
+					"backtrace" : 9,
 					"fragment" : "-Wfloat-conversion"
 				},
 				{
-					"backtrace" : 10,
+					"backtrace" : 11,
 					"fragment" : "-fno-strict-aliasing"
 				},
 				{
-					"backtrace" : 12,
+					"backtrace" : 13,
 					"fragment" : "-Wshadow"
 				},
 				{
-					"backtrace" : 14,
+					"backtrace" : 15,
 					"fragment" : "-Wno-unused-local-typedefs"
 				},
 				{
-					"backtrace" : 16,
+					"backtrace" : 17,
 					"fragment" : "-Wimplicit-fallthrough"
 				},
 				{
-					"backtrace" : 18,
+					"backtrace" : 19,
 					"fragment" : "-fdiagnostics-color=always"
 				}
 			],
 			"defines" : 
 			[
 				{
-					"backtrace" : 19,
+					"backtrace" : 20,
 					"define" : "USING_GENERATED_CONFIG_H"
 				}
 			],
 			"includes" : 
 			[
 				{
-					"backtrace" : 20,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-build/include-config-release/build_config"
-				},
-				{
 					"backtrace" : 21,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/src"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-build/include-config-debug/build_config"
 				},
 				{
 					"backtrace" : 22,
-					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII/release/_deps/sdl3-src/include"
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-src/src"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "C:/Users/Joseph/Documents/Projects/3DASCII-main/build/_deps/sdl3-src/include"
 				}
 			],
 			"language" : "C",
@@ -262,7 +272,7 @@
 	"paths" : 
 	{
 		"build" : "_deps/sdl3-build",
-		"source" : "release/_deps/sdl3-src"
+		"source" : "build/_deps/sdl3-src"
 	},
 	"sourceGroups" : 
 	[
@@ -303,151 +313,151 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_atan2.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_atan2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_exp.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_exp.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_fmod.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_fmod.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_log.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_log.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_log10.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_log10.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_pow.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_pow.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_rem_pio2.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_rem_pio2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/e_sqrt.c",
+			"path" : "build/_deps/sdl3-src/src/libm/e_sqrt.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/k_cos.c",
+			"path" : "build/_deps/sdl3-src/src/libm/k_cos.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/k_rem_pio2.c",
+			"path" : "build/_deps/sdl3-src/src/libm/k_rem_pio2.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/k_sin.c",
+			"path" : "build/_deps/sdl3-src/src/libm/k_sin.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/k_tan.c",
+			"path" : "build/_deps/sdl3-src/src/libm/k_tan.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_atan.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_atan.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_copysign.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_copysign.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_cos.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_cos.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_fabs.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_fabs.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_floor.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_floor.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_isinf.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_isinf.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_isinff.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_isinff.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_isnan.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_isnan.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_isnanf.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_isnanf.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_modf.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_modf.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_scalbn.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_scalbn.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_sin.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_sin.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "release/_deps/sdl3-src/src/libm/s_tan.c",
+			"path" : "build/_deps/sdl3-src/src/libm/s_tan.c",
 			"sourceGroupIndex" : 0
 		}
 	],
