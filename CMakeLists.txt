@@ -4,10 +4,11 @@ project(3DASCII VERSION 0.1.0 LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
-if (CMAKE_SYSTEM_NAME STREQUAL "Windows")
+if (CMAKE_SYSTEM_NAME STREQUAL "Windows" AND CMAKE_CXX_COMPILER_ID STREQUAL "GNU")
   set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -static-libgcc")
   set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -static-libgcc")
-  set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -static-libgcc -static-libstdc++")
+  set(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -static -static-libgcc -static-libstdc++ -lwinpthread")
+
 endif()
 
 include(FetchContent)
@@ -18,6 +19,12 @@ FetchContent_Declare(SDL3
   GIT_TAG main  # SDL3 is on the main branch
   GIT_SHALLOW ON
 )
+
+set(SDL3_DISABLE_SHARED ON CACHE BOOL "" FORCE)
+set(SDL3_DISABLE_INSTALL ON CACHE BOOL "" FORCE)
+set(SDL_SHARED OFF CACHE BOOL "" FORCE)
+set(SDL_STATIC ON CACHE BOOL "" FORCE)
+
 FetchContent_MakeAvailable(SDL3)
 
 # ImGui (docking optional)
@@ -76,5 +83,5 @@ target_include_directories(3DASCII PRIVATE
 find_package(OpenGL REQUIRED)
 target_link_libraries(3DASCII PRIVATE
   OpenGL::GL
-  SDL3::SDL3  # or SDL3-shared if you prefer dynamic linking
+  SDL3::SDL3-static  
 )

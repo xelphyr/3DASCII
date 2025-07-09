@@ -374,6 +374,10 @@ PKG_CONFIG_EXECUTABLE:FILEPATH=C:/msys64/ucrt64/bin/pkg-config.exe
 //Value Computed by CMake
 SDL3_BINARY_DIR:STATIC=C:/Users/Joseph/Documents/Projects/3DASCII-main/release/_deps/sdl3-build
 
+SDL3_DISABLE_INSTALL:BOOL=ON
+
+SDL3_DISABLE_SHARED:BOOL=ON
+
 //Value Computed by CMake
 SDL3_IS_TOP_LEVEL:STATIC=OFF
 
@@ -586,7 +590,7 @@ SDL_RPATH:BOOL=OFF
 SDL_SENSOR:BOOL=ON
 
 //Build a shared version of the library
-SDL_SHARED:BOOL=ON
+SDL_SHARED:BOOL=OFF
 
 //Support the sndio audio API
 SDL_SNDIO:BOOL=OFF
@@ -607,7 +611,7 @@ SDL_SSE4_1:BOOL=ON
 SDL_SSE4_2:BOOL=ON
 
 //Build a static version of the library
-SDL_STATIC:BOOL=OFF
+SDL_STATIC:BOOL=ON
 
 //Use iconv() from system-installed libraries
 SDL_SYSTEM_ICONV:BOOL=OFF
