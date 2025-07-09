@@ -79,6 +79,8 @@ target_include_directories(3DASCII PRIVATE
   ${PROJECT_SOURCE_DIR}/include
 )
 
+target_compile_definitions(3DASCII PRIVATE SDL_STATIC=1)
+
 # Link libraries
 find_package(OpenGL REQUIRED)
 target_link_libraries(3DASCII PRIVATE
